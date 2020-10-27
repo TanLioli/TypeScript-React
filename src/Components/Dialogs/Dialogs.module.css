@@ -6,6 +6,7 @@
 
 .dialogsItems{
     padding:10px;
+   
     
 }
 
@@ -15,8 +16,17 @@
 
 .messages{
     padding:10px;
+    line-height: 3.0;
+    
 }
 
 .message{
 
 }
+.dialogsItems .active img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px
+    
+}
+
