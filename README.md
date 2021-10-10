@@ -1,2 +1,2 @@
-# KonopelkoJs
+# TypeScript/React
  
